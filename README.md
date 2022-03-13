@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sadeedpv
-- 👀 I’m interested in start-ups and web development 
-- 🌱 I’m currently learning programming 
+- 🌱 Always learning programming 
 - 💞️ I’m looking to collaborate on start ups or software related jobs
 - 📫 How to reach me - muhammedsadeed70@gmail.com
 
