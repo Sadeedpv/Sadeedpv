@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sadeedpv
-- 🌱 Always learning programming 
+- 🌱 Always learning 
 - 💞️ I’m looking to collaborate on start ups or software related jobs
 - 📫 How to reach me - muhammedsadeed70@gmail.com
 
