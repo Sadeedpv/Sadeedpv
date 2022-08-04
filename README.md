@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadeedpv" alt="sadeedpv" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pvsadeed" target="blank"><img src="https://img.shields.io/twitter/follow/pvsadeed?logo=twitter&style=for-the-badge" alt="pvsadeed" /></a> </p>
-
 - 🔭 I’m currently working on **Instagram clone**
 
 - 🌱 I’m currently learning **Nodejs and backend development**
