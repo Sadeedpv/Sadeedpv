@@ -35,12 +35,12 @@
 ---
 <h3 align="left"> My Projects 💻 </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=socialbook_frontend" alt="SocialBook" /> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=MeTube" alt="MeTube" /> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Food_delivery_application" alt="Recipe" /> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=101-programming-resources" alt="Free-Programming-Resources" /> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Open-Source-for-All" alt="Open-source" /> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Ecommerce" alt="E-commerce Project" /> &nbsp;
+<a href='https://github.com/Sadeedpv/socialbook_frontend' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=socialbook_frontend" alt="SocialBook" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/MeTube' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=MeTube" alt="MeTube" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/Food_delivery_application' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Food_delivery_application" alt="Recipe" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/101-programming-resource' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=101-programming-resources" alt="Free-Programming-Resources" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/Open-Source-for-All'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Open-Source-for-All" alt="Open-source" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/Ecommerce' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Ecommerce" alt="E-commerce Project" /></a> &nbsp;
 </p>
 
 ---
