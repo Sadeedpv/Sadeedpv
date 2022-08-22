@@ -38,9 +38,13 @@
 <a href='https://github.com/Sadeedpv/socialbook_frontend' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=socialbook_frontend" alt="SocialBook" /></a> &nbsp;
 <a href='https://github.com/Sadeedpv/MeTube' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=MeTube" alt="MeTube" /></a> &nbsp;
 <a href='https://github.com/Sadeedpv/Food_delivery_application' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Food_delivery_application" alt="Recipe" /></a> &nbsp;
-<a href='https://github.com/Sadeedpv/101-programming-resource' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=101-programming-resources" alt="Free-Programming-Resources" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/101-programming-resources' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=101-programming-resources" alt="Free-Programming-Resources" /></a> &nbsp;
 <a href='https://github.com/Sadeedpv/Open-Source-for-All'><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Open-Source-for-All" alt="Open-source" /></a> &nbsp;
 <a href='https://github.com/Sadeedpv/Ecommerce' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Ecommerce" alt="E-commerce Project" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/Spotify-ui' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Spotify-ui" alt="Spotify-clone" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/Exercisedb' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Exercisedb" alt="Exercise-App" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/PerspectiveAPI' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=PerspectiveAPI" alt="PerspectiveAPI" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/Newsmaker' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Newsmaker" alt="Newsmaker" /></a> &nbsp;
 </p>
 
 ---
