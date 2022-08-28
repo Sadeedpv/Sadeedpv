@@ -45,6 +45,7 @@
 <a href='https://github.com/Sadeedpv/Exercisedb' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Exercisedb" alt="Exercise-App" /></a> &nbsp;
 <a href='https://github.com/Sadeedpv/PerspectiveAPI' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=PerspectiveAPI" alt="PerspectiveAPI" /></a> &nbsp;
 <a href='https://github.com/Sadeedpv/Newsmaker' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=Newsmaker" alt="Newsmaker" /></a> &nbsp;
+<a href='https://github.com/Sadeedpv/ChatCord' ><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sadeedpv&repo=ChatCord" alt="ChatCord" /></a> &nbsp;
 </p>
 
 ---
