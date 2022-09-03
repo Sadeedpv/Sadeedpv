@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **my projects**
 
-- 👨‍💻 Link to my portfolio website [https://sadeedpv.github.io/Portfolio-website](https://sadeedpv.github.io/Portfolio-website)
+- 👨‍💻 Link to my [portfolio website](https://sadeedpv.github.io/Portfolio-website)
 
 - 📫 How to reach me **muhammedsadeed70@gmail.com**
 
