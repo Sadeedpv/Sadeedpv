@@ -15,7 +15,7 @@
 
 - 👨‍💻 Link to my portfolio website [https://sadeedpv.github.io/Portfolio-website](https://sadeedpv.github.io/Portfolio-website)
 
-- 📫 How to reach me **sadeedmohamad@gmail.com**
+- 📫 How to reach me **muhammedsadeed70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
