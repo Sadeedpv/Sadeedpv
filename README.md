@@ -49,8 +49,7 @@
 
 ---
 <br />
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Sadeedpv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sadeedpv" /></a></p><br><br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeedpv&show_icons=true&locale=en&layout=compact" alt="sadeedpv" /></p>
 
