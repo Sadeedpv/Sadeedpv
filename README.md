@@ -14,6 +14,9 @@
 
 - 📫 How to reach me **muhammedsadeed70@gmail.com**
 
+[![An image of @sadeedpv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadeedpv)](https://holopin.io/@sadeedpv)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@sadio_pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sadio_pv" height="30" width="40" /></a>
