@@ -24,8 +24,6 @@
 <a href="https://twitter.com/pvsadeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pvsadeed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18243271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18243271" height="30" width="40" /></a>
 <a href="https://instagram.com/sadio_pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadio_pv" height="30" width="40" /></a>
-<a href="https://dribbble.com/pvmohamadsadeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pvmohamadsadeed" height="30" width="40" /></a>
-<a href="https://medium.com/@sadeedmohamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadeedmohamad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sadeedpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadeedpv" height="30" width="40" /></a>
 </p>
 
