@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadeedpv" alt="sadeedpv" /></a> </p>
 
-- 🔭 I’m currently working on **StackOverflow clone**
-
-- 🌱 I’m currently learning **Golang and Rust**
-
 - 👨‍💻 Link to my [portfolio website](https://sadeedpv.github.io/Portfolio-website)
 
 - 📫 How to reach me **muhammedsadeed70@gmail.com**
