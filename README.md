@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadeed pv</h1>
-<h3 align="center">A Software developer from India</h3>
+<h3 align="center">I write code sometimes</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeedpv&label=Profile%20views&color=0e75b6&style=flat" alt="sadeedpv" /> </p>
