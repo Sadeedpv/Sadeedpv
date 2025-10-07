@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **muhammedsadeed70@gmail.com**
 
-[![An image of @sadeedpv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadeedpv)](https://holopin.io/@sadeedpv)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
